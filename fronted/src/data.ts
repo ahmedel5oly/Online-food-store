@@ -1,5 +1,5 @@
-import {Food} from 'c:/Users/HP/Desktop/food_app/Online-food-store/fronted/src/app/shared/models/food';
-// import { Tag } from './app/shared/models/Tag';
+import {Food} from './app/shared/models/Food';
+import { Tag } from './app/shared/models/Tag';
 
 export const sample_foods: Food[] = [
   {
